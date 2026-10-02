@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Joseph Kailie 👋
 
-<!--
-**josephkailie/josephkailie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the founder of *Kombra Tech Hub* - a youth tech initiative from Freetown, Sierra Leone. We haven't voted for leadership yet, but I started building our digital presence.
 
-Here are some ideas to get you started:
+🚀 Currently learning in public & documenting my vibe coding journey:
+- Building Kombra Tech Hub website
+- Building SprascleFareWater business site
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Learning: HTML, CSS, JavaScript, React, Lovable, GitHub
+
+This GitHub is my personal learning record - so in 2-3 months I can look back and share how I started.
+
+📍 Freetown, Sierra Leone
